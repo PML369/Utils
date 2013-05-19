@@ -57,3 +57,15 @@ Templates included are:
  - long
  - short
  - std::string
+ 
+ ##Contact
+If you have any requests for future releases, feel free to email plpub2@gmail.com 
+
+##Copyright
+This code is Copyright (C) 2013  Peter Lotts. 
+It is released under the GNU General Public Licence version 3. 
+
+This program is distributed in the hope that it will be useful, 
+but WITHOUT ANY WARRANTY; without even the implied warranty of 
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+GNU General Public License for more details. 
